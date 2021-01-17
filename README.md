@@ -16,6 +16,6 @@ It was written to be used with a Home Assistant smart home.
   - Action:
     - Run Program
     - Enter path to 'app.exe'
-    - IMPORTANT: Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.
+    - **IMPORTANT:** Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.
 
 3. Send an MQTT message to the shutdown topic and watch your pc shut down. 
