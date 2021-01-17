@@ -1,0 +1,6 @@
+{
+    "mqtt_user":"",
+    "mqtt_password":"",
+    "mqtt_broker_hostname":"homeassistant",
+    "hostname":"mycomputer"
+}
