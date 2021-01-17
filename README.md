@@ -22,7 +22,7 @@ It was written to be used with a Home Assistant smart home.
       <ul>
         <li>Run Program</li>
         <li>Enter path to 'app.exe'</li>
-        <li>__IMPORTANT:__ Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.</li>
+        <li><strong>IMPORTANT:</strong> Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.</li>
       </ul>
     </li>
   </ul>
