@@ -18,10 +18,13 @@ It was written to be used with a Home Assistant smart home.
   <ul>
     <li>Run as User: SYSTEM</li>
     <li>Trigger: On Startup</li>
-    <li>Action:</li>
-    - Run Program
-    - Enter path to 'app.exe'
-    - **IMPORTANT:** Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.
+    <li>Action:
+      <ul>
+        <li>Run Program</li>
+        <li>Enter path to 'app.exe'</li>
+        <li>**IMPORTANT:** Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.</li>
+      </ul>
+    </li>
   </ul>
   </li>
 <li>Send an MQTT message to the shutdown topic and watch your pc shut down.</li>
