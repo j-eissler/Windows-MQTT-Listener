@@ -5,7 +5,8 @@ It was written to be used with a Home Assistant smart home.
 # How to use
 <ol>
 <li>Open 'config.json' and enter your settings. Every setting is explained below:
-  - mqtt_user:            Username required to log into your MQTT broker.
+  <ul>
+    <li>mqtt_user:            Username required to log into your MQTT broker.</li>
   - mqtt_password:        Password required to log into your MQTT broker.
   - mqtt_broker_hostname: Hostname of your MQTT broker
   - hostname:             Hostname of the computer this application is running on. This is used to set the topic this app listens to.
