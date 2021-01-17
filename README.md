@@ -4,7 +4,7 @@ It was written to be used with a Home Assistant smart home.
 
 # How to use
 <ol>
-  <li>Download 'app.exe' and 'config.json' and place them in the same directory (i.e. 'C:\mqtt_listener\)</li>
+  <li>Download folder 'app'. It contains 'app.exe' and 'config.json'. Place this folder somewhere in your systemm (i.e. 'C:\mqtt_listener\).</li>
   <li>Open 'config.json' and enter your settings. Every setting is explained below:
     <ul>
       <li>mqtt_user:            Username required to log into your MQTT broker.</li>
@@ -23,7 +23,7 @@ It was written to be used with a Home Assistant smart home.
         <ul>
           <li>Run Program</li>
           <li>Enter path to 'app.exe'</li>
-          <li><strong>IMPORTANT:</strong> Enter the directory the 'app.exe' file is in to 'Start in (optional)'. Otherwise the process wont start.</li>
+          <li><strong>IMPORTANT:</strong> Enter the application directory to 'Start in (optional)'. Otherwise the process wont start.</li>
         </ul>
       </li>
     </ul>
