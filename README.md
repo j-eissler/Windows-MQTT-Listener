@@ -4,7 +4,7 @@ It was written to be used with a Home Assistant smart home.
 
 # How to use
 <ol>
-  <li>Download this repository. All you need is the folder 'app'. It contains the application executable and config file. Place the app folder somewhere in your system and rename it (i.e. 'C:\mqtt_listener\).</li>
+  <li>Download this repository. All you need is the folder 'app'. It contains the application executable and config file. Place the app folder somewhere in your system and rename it (i.e. 'C:\mqtt_listener\). <strong>The path must not contain spaces!</strong></li> 
   <li>Open 'config.json' and enter your settings. The setting are explained below.</li>
   <li>Add this application to windows task scheduler. This allows it to run even before a user is logged in. Use the following settings to make sure it works:
     <ul>
